@@ -1,0 +1,7 @@
+venv/
+migrations/
+instance/
+.env
+freeze.txt
+*.md
+__pycache__/
